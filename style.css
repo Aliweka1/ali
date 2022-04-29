@@ -1,0 +1,11 @@
+html {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0 auto;
+  background-image: url('https://source.unsplash.com/1600x900/?landscape');
+
+}
